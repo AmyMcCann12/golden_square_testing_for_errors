@@ -1,4 +1,4 @@
-import pytest 
+import pytest # type: ignore
 from lib.present import *
 
 # Wrap - raises error if contents is not none
